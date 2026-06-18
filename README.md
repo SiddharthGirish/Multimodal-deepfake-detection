@@ -130,4 +130,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✍️ Author Information
 - **Name**: Siddharth Girish
-- **LinkedIn**: www.linkedin.com/in/siddharthgirish
+- **LinkedIn**: [SIDDHARTH GIRISH](www.linkedin.com/in/siddharthgirish)
