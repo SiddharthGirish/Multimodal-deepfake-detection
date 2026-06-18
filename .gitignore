@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+deepfake_env/
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Temporary and Cache Directories
+temp/
+uploaded_video.*
+
+# OS-specific
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Large Datasets and Media Files
+samples/*.mp4
+samples/*.avi
+samples/*.mov
+samples/*.wav
+
+# Machine Learning / Model weights
+models/
+*.pth
+*.pt
+*.bin
+*.onnx
+*.pkl
+*.h5
