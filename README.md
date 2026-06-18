@@ -129,7 +129,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## ✍️ Author Information
-- **Name**: [Your Name]
-- **LinkedIn**: [Your LinkedIn Link]
-- **Email**: [Your Email Address]
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **Name**: Siddharth Girish
+- **LinkedIn**: www.linkedin.com/in/siddharthgirish
